@@ -254,3 +254,4 @@ xyplot(steps ~ interval | dayType,
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-13-1.png)<!-- -->
+ 
